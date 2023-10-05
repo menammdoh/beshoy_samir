@@ -166,4 +166,18 @@ img {
         justify-content: center;
         font-size: 13px;
     }
+
+    .content {
+        margin-left: 0 20% 0 20%;
+        margin-top: 150px;
+        color: aliceblue;
+    
+    }
+
+        .content p{
+        display: flex;
+        justify-content: center;
+        position: relative;
+        right: 10%;
+    }
 }
